@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diploma OO Exercises", "Diploma OO Exercises\Diploma OO Exercises.csproj", "{FF101DD4-8F6F-4E90-9CE2-165C3CBF7866}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF101DD4-8F6F-4E90-9CE2-165C3CBF7866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF101DD4-8F6F-4E90-9CE2-165C3CBF7866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF101DD4-8F6F-4E90-9CE2-165C3CBF7866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF101DD4-8F6F-4E90-9CE2-165C3CBF7866}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7943CA2-408A-4A8A-8F63-4719DED2677D}
+	EndGlobalSection
+EndGlobal
